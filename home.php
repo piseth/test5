@@ -10,5 +10,8 @@
     <?php
         echo "<h1>TEST</h1>";
     ?>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus tempora laborum molestias obcaecati doloremque aut expedita unde ea, dolorem vitae. Numquam labore ad vel quidem ab repellat explicabo veniam nobis!
+    </p>
 </body>
 </html>
